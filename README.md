@@ -1,1 +1,1 @@
-[# rsschool-cv](https://maximdymov.github.io/rsschool-cv/cv)
+[# CV](https://maximdymov.github.io/rsschool-cv/cv)
