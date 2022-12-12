@@ -48,4 +48,4 @@ YouTube
 
 ## English level
 
-Intemediate
+Intermediate
